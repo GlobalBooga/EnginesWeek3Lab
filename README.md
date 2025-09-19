@@ -4,8 +4,9 @@ Me:
 Alex Anastasakis - 100892202
 
 Title: 
-Platformer
- 
+Bean-ball. The gameplay loop is to get the bean to pickup all of the balls. Try not to fall off the map!
+
+
 Diagrams:
 
 
@@ -19,9 +20,11 @@ Diagrams:
 
 
 
+**What system within your project uses a Singleton, and why did you choose this system to adopt the pattern?**
+Both the gamemode and the enhanced input subsystem are singletons. I chose to use these systems simply because
+they're built in and the quickest to implement. I would consider them bothe necessary pieces of any game made in unreal engine, so by 
+getting better at implementing these, it would help me manage my time better on the exam.
 
-
-
-
-
-
+**Do you think this design pattern is beneficial for this purpose? Explain why or why not.**
+Yes, because the player character does not need to know about score or about the existance of pickups. 
+Neither do the pickups need to know about the existance of the player character.
