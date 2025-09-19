@@ -7,6 +7,7 @@ Title:
 Platformer
  
 Flowchart:
-<img width="493" height="643" alt="image" src="https://github.com/user-attachments/assets/075cb6a6-23e7-42b7-b3df-df628850560d" />
+<img width="710" height="747" alt="image" src="https://github.com/user-attachments/assets/87e67d1f-35fc-4ab4-adc9-f47617a5faa7" />
+
 
 
